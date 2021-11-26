@@ -1,0 +1,1 @@
+this is the final squash file to demonstrate squashing
